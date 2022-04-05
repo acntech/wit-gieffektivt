@@ -1,1 +1,1 @@
-# wit-innorway-calendar
+# Women in Tech internal project
